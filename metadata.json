@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Vogue",
+  "description": "An AI-powered virtual stylist. Upload a photo and click a style or describe your own to instantly change the subject's outfit using Gemini 2.5.",
+  "requestFramePermissions": []
+}
